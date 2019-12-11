@@ -1,0 +1,23 @@
+{
+  "name": "custom-video-player",
+  "version": "1.0.0",
+  "description": "Video player with css",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/custom-video-player.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/custom-video-player/issues"
+  },
+  "homepage": "https://github.com/argenis0409/custom-video-player#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
